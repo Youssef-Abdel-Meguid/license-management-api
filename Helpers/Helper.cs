@@ -77,6 +77,6 @@ namespace GenerateEncryptedFile.Helpers
             Buffer.BlockCopy(encryptedBytes, 0, combinedBytes, iv.Length, encryptedBytes.Length);
 
             return combinedBytes;
-        }
+        }   
     }
 }
