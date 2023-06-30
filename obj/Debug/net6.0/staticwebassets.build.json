@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "N3LrWPcCrOkSgbfDnRXORFp/Kr91P/wMegGHV0Jn2IU=",
+  "Source": "GenerateEncryptedFile",
+  "BasePath": "_content/GenerateEncryptedFile",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

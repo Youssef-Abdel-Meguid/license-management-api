@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "bJGAx6u3VzRwmLEm9dqJco3R3heSDdQOGkH5cXuz5DRnmF04ZDwAC9ZFsgoivLbwLbVnN8Xi/OYqqCUj+wRE8w==",
+  "success": true,
+  "projectFilePath": "D:\\generate-file\\GenerateEncryptedFile\\GenerateEncryptedFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\youssef.sayed\\.nuget\\packages\\microsoft.bot.configuration\\4.20.0\\microsoft.bot.configuration.4.20.0.nupkg.sha512",
+    "C:\\Users\\youssef.sayed\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\youssef.sayed\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\youssef.sayed\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\youssef.sayed\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\youssef.sayed\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\youssef.sayed\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\youssef.sayed\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\youssef.sayed\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
